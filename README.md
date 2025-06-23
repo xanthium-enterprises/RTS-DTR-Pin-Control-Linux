@@ -1,8 +1,8 @@
-## Controlling the RTS and DTR pins of a Linux Serial Port using ioctl() calls
+# Controlling the RTS and DTR pins of a Linux Serial Port using ioctl() calls
 
-The C code uses ioctl() calls controls the logic levels of DTR and RTS pins of a Linux Serial Port.
+- The C code uses ioctl() calls controls the logic levels of DTR and RTS pins of a Linux Serial Port.
 
-<img src = "http://xanthium.in/sites/default/files/site-images/serial-prog-linux/RTS-Program.jpeg" alt = "Screenshot of program for controlling RTS and DTR pins on a Linux Serial port using ioctl calls"/>
+[Screenshot of program for controlling RTS and DTR pins on a Linux Serial port using ioctl calls]()
  
 The <a href = "http://xanthium.in/Controlling-RTS-and-DTR-pins-SerialPort-in-Linux">full explanation of the code can be found here.</a> 
 
