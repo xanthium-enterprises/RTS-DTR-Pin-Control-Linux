@@ -52,7 +52,7 @@
     	#include <unistd.h> 	 /* UNIX Standard Definitions 	       */ 
     	#include <errno.h>   	 /* ERROR Number Definitions           */
 	#include <sys/ioctl.h>   /* ioctl()                            */
-    	void main(void)
+    	int main(void)
     	{
         	int fd;	/*File Descriptor*/
 		
